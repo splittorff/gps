@@ -21,6 +21,7 @@ And we need to see how its called (seems like its currently called with HERE-pro
 Maybe this will do the trick  (try...) 
 
 :C
+
 1) python to make some looking at the Dbus (a nice test program anyway)
 2) Config the ubuntu-localisation-service
 3) (if that do not work from day one:) we need some way to see the output from android etc BEFORE the Dbus. 
